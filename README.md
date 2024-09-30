@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with Android, iOS and Flutter at [JobLogic](https://www.joblogic.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** to become FrontEnd developer
 
 - 🤝 My outstanding app [Signals-Crypto](https://play.google.com/store/apps/details?id=com.zyncas.signals&hl=en-VN)
 
